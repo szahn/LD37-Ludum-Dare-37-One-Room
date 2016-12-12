@@ -1,0 +1,13 @@
+{
+  "name": "ludum-dare-37-one-room",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "awesome-typescript-loader": "^2.2.4",
+    "bluebird": "^3.4.6",
+    "typescript": "^2.0.3",
+    "webpack": "^1.13.2"
+  }
+}
